@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "CommonJS",
+    "target": "ES2015",
+    "noImplicitAny": true,
+    "sourceMap": true
+  },
+  "include": ["src/index.ts"],
+  "exclude": ["node_modules"]
+}
